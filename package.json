@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "axios": "^1.4.0",
+    "mongodb": "^5.4.0",
+    "react-redux": "^8.0.5",
+    "stripe": "^12.5.0"
+  }
+}
